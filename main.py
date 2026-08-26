@@ -72,11 +72,9 @@ class modes:
 
 def ques():
     print("\t這個標題也可以改\t") # here title
-    mode = int(input("簡介(0)；中翻英(1)；英翻中(2)；單字表(3) --> "))
+    mode = int(input("中翻英(1)；英翻中(2)；單字表(3) --> "))
     
-    if mode == 0:
-        print("聊發明的東西，你可以自己加入新的補充單字\n英翻中的時候中文意思字要全部一樣，答對其中一個意思即可\n中翻英大小寫不計。")
-    elif mode == 1:
+    if mode == 1:
         modes.CtoE()
     elif mode == 2:
         modes.EtoC()
