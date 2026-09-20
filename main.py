@@ -2,7 +2,7 @@ import random
 
 '''
     字彙訓練器:
-    使用集合
+    使用dict
     {word: {0: <definition>, 1: <part of speech>}
     
     填滿該單元單字
