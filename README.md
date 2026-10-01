@@ -2,8 +2,8 @@
 
 `EngPractice` 是一個基於 Python 開發的輕量化英文單字複習工具。專為高中生與檢定備考者設計，旨在透過客製化的單字庫管理與動態測驗機制，提升單字記憶效率與複習體驗。
 
-![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 
 ---
 
